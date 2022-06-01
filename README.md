@@ -1,10 +1,11 @@
 # PetLand by DevUps 1.0
 
 # VÍDEO DA APLICAÇÃO RODANDO:
-https://user-images.githubusercontent.com/103219334/171055286-19c9c3a3-f310-4728-9ce7-08f5d556433a.mp4
 
 
-https://user-images.githubusercontent.com/103219334/171055276-7e0dc103-b74f-4054-9694-10f461b0fd09.mp4
+https://user-images.githubusercontent.com/103219334/171486261-96b849bb-6f70-4315-bb90-fe2433f148b8.mp4
+
+
 
 # MODELO ENTIDADE RELACIONAMENTO:
 ![petand_mer](https://user-images.githubusercontent.com/103219334/171064740-b52b4058-0d11-422b-bc8e-df2d8983d01c.png)
